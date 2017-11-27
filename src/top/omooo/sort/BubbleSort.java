@@ -1,6 +1,5 @@
 package top.omooo.sort;
 
-import java.util.Collections;
 import java.util.Scanner;
 
 //ц╟ещеепР
