@@ -3,19 +3,18 @@ package top.omooo.sort;
 import java.util.Scanner;
 
 /**
- * 冒泡排序
- * 第一轮循环就得到了最大数，第二轮循环得到第二大数......
- *
+ * 选择排序
+ *第一轮循环就得到了最小数，第二轮循环得到第二小数......
  */
-public class BubbleSort {
+public class SelectionSort {
 	
 	public static void sort(int[] data) {
-		for(int i=0;i<data.length-1;i++) {
-			for(int j=0;j<data.length-1-i;j++) {
-				if(data[j]>data[j+1]) {
-					int index=data[j+1];
-					data[j+1]=data[j];
-					data[j]=index;
+		for(int x=0;x<data.length-1;x++) {
+			for(int y=x+1;y<data.length;y++) {
+				if(data[x]>data[y]) {
+					int index=data[x];
+					data[x]=data[y];
+					data[y]=index;
 				}
 			}
 		}
@@ -33,4 +32,5 @@ public class BubbleSort {
 	    	System.out.print(data[i]+"  ");  
 	    }
 	}
+
 }
