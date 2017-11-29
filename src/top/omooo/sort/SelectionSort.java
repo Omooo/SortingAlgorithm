@@ -3,8 +3,8 @@ package top.omooo.sort;
 import java.util.Scanner;
 
 /**
- * 选择排序
- *第一轮循环就得到了最小数，第二轮循环得到第二小数......
+ * 閫夋嫨鎺掑簭
+ *
  */
 public class SelectionSort {
 	
