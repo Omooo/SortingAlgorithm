@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * 冒泡排序
- *
+ * 第一次循环结束出最大值 ......
  */
 public class BubbleSort {
 	
@@ -18,18 +18,11 @@ public class BubbleSort {
 				}
 			}
 		}
+		for(int i=0;i<data.length;i++){
+			System.out.print(data[i]+"  ");
+		}
 	}
 	public static void main(String[] args) {
-		Scanner scanner=new Scanner(System.in);
-		String[] nums = null;   
-	    nums = scanner.nextLine().split(" ");   
-	    int data[]=new int[nums.length];  
-	    for(int i=0;i<data.length;i++){  
-	    	data[i]=Integer.valueOf(nums[i]);  
-	    }
-	    sort(data);
-	    for(int i=0;i<data.length;i++){  
-	    	System.out.print(data[i]+"  ");  
-	    }
+		sort(TestSort.getData());
 	}
 }
