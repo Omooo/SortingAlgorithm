@@ -1,6 +1,5 @@
 package top.omooo.sort;
 
-import java.util.Scanner;
 
 /**
  * 冒泡排序
