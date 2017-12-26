@@ -20,6 +20,7 @@ public class InsertSort {
     }
 
     public static void main(String[] args) {
+        System.out.print(8 >> 3);
         sort(TestSort.getData());
     }
 }
