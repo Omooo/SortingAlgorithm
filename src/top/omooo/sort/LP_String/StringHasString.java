@@ -1,4 +1,4 @@
-package top.omooo.sort.LeetCode;
+package top.omooo.sort.LP_String;
 
 /**
  * 实现 strStr() 函数。

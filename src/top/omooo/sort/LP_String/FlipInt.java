@@ -1,6 +1,4 @@
-package top.omooo.sort.LeetCode;
-
-import sun.rmi.runtime.Log;
+package top.omooo.sort.LP_String;
 
 /**
  * 颠倒整数

@@ -1,4 +1,4 @@
-package top.omooo.sort.LeetCode;
+package top.omooo.sort.LP_String;
 
 /**
  * 最长公共前缀

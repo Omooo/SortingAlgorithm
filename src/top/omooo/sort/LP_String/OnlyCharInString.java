@@ -1,4 +1,4 @@
-package top.omooo.sort.LeetCode;
+package top.omooo.sort.LP_String;
 
 /**
  * 字符串中的第一个唯一字符
