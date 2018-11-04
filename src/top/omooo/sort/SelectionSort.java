@@ -10,7 +10,7 @@ public class SelectionSort {
 	public static void sort(int[] data) {
 		for(int x=0;x<data.length-1;x++) {
 			for(int y=x+1;y<data.length;y++) {
-				if(data[x]>data[y]) {
+				if(data[x]<data[y]) {
 					int index=data[x];
 					data[x]=data[y];
 					data[y]=index;
