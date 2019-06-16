@@ -4,11 +4,11 @@
 
 #### 更新
 
-| #    | Title                                                        | Solution | Difficulty |
-| ---- | ------------------------------------------------------------ | -------- | ---------- |
-| 206  | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) |          | 简单       |
-|      |                                                              |          |            |
-|      |                                                              |          |            |
+| #    | Title                                                        | Solution                                                     | Difficulty |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| 206  | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [Java](https://github.com/Omooo/Algorithm/blob/master/src/top/omooo/leetcode/ReverseLinkedList.java) | 简单       |
+| 21   | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Java](https://github.com/Omooo/Algorithm/blob/master/src/top/omooo/leetcode/MergeSortedList.java) | 简单       |
+| 141  | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [Java](https://github.com/Omooo/Algorithm/blob/master/src/top/omooo/leetcode/CircleLinkedList.java) | 简单       |
 
 
 
