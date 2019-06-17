@@ -9,6 +9,12 @@
 | 206  | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [Java](https://github.com/Omooo/Algorithm/blob/master/src/top/omooo/leetcode/ReverseLinkedList.java) | 简单       |
 | 21   | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Java](https://github.com/Omooo/Algorithm/blob/master/src/top/omooo/leetcode/MergeSortedList.java) | 简单       |
 | 141  | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [Java](https://github.com/Omooo/Algorithm/blob/master/src/top/omooo/leetcode/CircleLinkedList.java) | 简单       |
+| 83   | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [Java](https://github.com/Omooo/Algorithm/blob/master/src/top/omooo/leetcode/linkedlist/DeleteDuplicateLinkedList.java) | 简单       |
+| 203  | [移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/) | [Java](https://github.com/Omooo/Algorithm/blob/master/src/top/omooo/leetcode/linkedlist/RemoveElementLinkedList.java) | 简单       |
+| 160  | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [Java](https://github.com/Omooo/Algorithm/blob/master/src/top/omooo/leetcode/linkedlist/IntersectionLinkedList.java) | 简单       |
+|      |                                                              |                                                              |            |
+|      |                                                              |                                                              |            |
+|      |                                                              |                                                              |            |
 
 
 
