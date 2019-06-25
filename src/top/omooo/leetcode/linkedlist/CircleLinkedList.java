@@ -1,4 +1,4 @@
-package top.omooo.leetcode;
+package top.omooo.leetcode.linkedlist;
 
 import top.omooo.base.ListNode;
 
